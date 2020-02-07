@@ -1,30 +1,29 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log for mrwillbarnz
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: February 6, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Discovered the challenge, prepared for battle!
+ - Discovered 100 Days of Code online! https://www.100daysofcode.com/
+ - Forked the original repo to start this challenge. 
+ - Revamped my Twitter to follow the official account and minor profile tweaks.
+ - Took a deep breath!
+ 
+**Thoughts:** Here we go!
+ 
+**Link to Work:** www.freecodecamp.org/mrwillbarnz
+ 
+ 
+### Day 1: February 7, 2020
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Day 1 of FreeCodeCamp
+ - Started FreeCodeCamp HTML Classes!
+ - Worked through activities 1-10.
+ - Edited this progress and submitted entries for the first time!
+ - Learned about Project-based Permissions in Jenkins (*Link: to Jenkins Documentation*)
+ 
+**Thoughts:** Really optimisitic so far, apart from forgetting that image tags don't follow the rules compared to other tags *(will update with a good example in the future)* As for Project-based security in Jenkins, very useful but can be confusing as the matrices are vertical.
 
-**Link to work:** [Calculator App](http://www.example.com)
+*example of project-based matrix here*
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to Work:** www.freecodecamp.org/mrwillbarnz
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
