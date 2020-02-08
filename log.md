@@ -27,3 +27,12 @@
 
 **Link to Work:** www.freecodecamp.org/mrwillbarnz
 
+### Day 2: February 8, 2020
+**Today's Progress**: Day 2 of FreeCodeCamp
+- Continued with HTML classes!
+- Worked through activity 11-15.
+- Learned about changes in Python 2 vs Python 3 for my current project (converting Python2 code manually).
+- Discovered https://github.com/csinkers/ualbion, forked repo and will investigate later.
+
+**Thoughts:** Today I found Jenkins-Docker Continuous Integration LA lab difficult today, decided to step back and try again another day, after realising I missed out some syntax with the Jenkinsfile, and subsequent CI/Docker image creation steps. However, the Python 2 to 3 conversion was successful today, so onwards to tomorrow!
+
