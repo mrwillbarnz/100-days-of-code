@@ -67,19 +67,24 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Link to work:**  The ualbion Arch Linux issue:![UAlbion Issue #1](https://github.com/csinkers/ualbion/issues/1)
 
-[//]: # (### Day 6: February 12th, 2020)
+### Day 6: February 12th, 2020
+
 **Today's Progress** Today I contributed to a couple of 'first-timer-only' repos, to practice Git pull-ing and my first commits on the site! Pymodern is now published on Github (Will post the shortened links on twitter FYI).
 
 **Thoughts:** Alot of discovery today, along with a really useful couple of repos I found for use, will link to them down below, very easy to demonstrate Git-pulling and other useful articles in the second one, might contribute to this one later on in the challenge!
 
-**Link to work:** !([Python_FAB_Reimplementation](https://www.github.com/mrwillbarnz/Python_FAB_Reimplementation)
+**Link to work:** ![Python_FAB_Reimplementation](https://www.github.com/mrwillbarnz/Python_FAB_Reimplementation)
 **Links to research:** ![FirstContributions_Repo](https://github.com/firstcontributions/first-contributions) ![Contribute-To-Open-Source](https://github.com/danthareja/contribute-to-open-source) ![First-Timers-Guide](https://github.com/the-ethan-hunt/first-timers-guide)
 
-[//]: # (### Day 7: February 13th, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+### Day 7: February 13th, 2020
+
+**Today's Progress** Today I contributed to one more 'first-time-only' repo example, specifically the ![FirstContributions_Repo](https://github.com/firstcontributions/first-contributions), following the interactive activity to demonstrate how a pull request works (and a tiny bit of JavaScript!). Started to tidy-up my R-code repo, and consolidate my old scripts from my Undergrad days, ideally turning them into smaller modules, that can be called upon without running specific lines. Will upload the public repo once I've found all my old code, and written some pseudocode for the mini-project.
+
+**Thoughts:** I really enjoyed understanding the Git Pull Request process, will have to spend the next couple of days reviewing what I've done so far. I'm intending to building more GUI apps by the time I've finished the challenge, but slow and steady wins the race!
+
+**Link to work:** ![MyFirstContributions_mrwillbarnz_Read-Only](https://github.com/mrwillbarnz/firstcontributions/)
+
+**Links to research:** ![Git-It](https://github.com/jlord/git-it-electron)
 [//]: # (### Day 8: February 14th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
