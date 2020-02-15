@@ -85,16 +85,27 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 **Link to work:** ![MyFirstContributions_mrwillbarnz_Read-Only](https://github.com/mrwillbarnz/firstcontributions/)
 
 **Links to research:** ![Git-It](https://github.com/jlord/git-it-electron)
-[//]: # (### Day 8: February 14th 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 9: February 15th, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+
+### Day 8: February 14th 2020
+
+**Today's Progress** Today I continued my Git pull request practice by using the Git-It application (link in yesterday's notes) followed the exercises as stated on the electron-app. Attempted Jenkins Continuous Integration (CI) lab, broke the test servers, setup a Linode account to potentially test more server-side applications and practice server management. Added the final Chapter 4 scripts in 'PFTAB' book.
+
+**Thoughts:** Good progress made today, but a slower day due to working harder during the week.
+
+**Link to work:** As yesterday.
+
+**Links to research:** None today!
+
+### Day 9: February 15th, 2020
+
+**Today's Progress** Today I continued my Python Modernisation progress, starting with Chapter 5 scripts. Re-attempted the CI lab on Linux Academy.
+
+**Thoughts:**Reading further documentation will enable me to diagnose and debug the older conditional statements, and the correct Syntax for Python3.
+
+**Link to work:**![Python_FAB_Reimplementation](https://www.github.com/mrwillbarnz/Python_FAB_Reimplementation)
+
+**Links to research:**![Python3_Conditional_Statements](https://www.python-course.eu/python3_conditional_statements.php)
+
 [//]: # (### Day 10: February 16th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
