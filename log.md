@@ -106,11 +106,15 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:**![Python3_Conditional_Statements](https://www.python-course.eu/python3_conditional_statements.php)
 
-[//]: # (### Day 10: February 16th 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+### Day 10: February 16th 2020
+
+**Today's Progress** 
+
+**Thoughts:**
+
+**Link to work:**
+
+**Links to research:**
 [//]: # (### Day 11: February 17th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
