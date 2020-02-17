@@ -108,18 +108,23 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 10: February 16th 2020
 
-**Today's Progress** 
+**Today's Progress** Continued with PyModern Project, took a break from previous labs, including the CI one.
 
-**Thoughts:**
+**Thoughts:**I felt that I progressed really well over the past week, hoping to continue that motivation onwards.s
 
-**Link to work:**
+**Link to work:**None to report.
 
-**Links to research:**
-[//]: # (### Day 11: February 17th, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+**Links to research:**Note to report.
+### Day 11: February 17th, 2020
+
+**Today's Progress** Continued with PyModern Project, started Puppet Quick Start, on LA.
+
+**Thoughts:**Puppet Quick Start was difficult to configure on my own server, but easier on the labs, due to the packages being pre-installed. Configuration of CA certs was a particular hang-up. Today I learned more about Lists and Dictionaries in Python, by creating the hangman-game.py script.
+
+**Link to work:**None to report.
+
+**Links to research:**None to report.
+
 [//]: # (### Day 12: February 18th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
