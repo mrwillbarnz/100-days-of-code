@@ -127,7 +127,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 12: February 18th 2020
 
-**Today's Progress** Complete the Puppet Quick-Start course from LinuxAcademy! Now I can automatically deploy an nginx instance from a puppet-master server! Started the #30DaysOfCode challenge on HackerRank. Adding this as one of the sites I go to while I learn, as it physically limits the amount you can learn in one sitting (good for me, as I can't binge the course information).
+**Today's Progress** Today I completed the Puppet Quick-Start course from LinuxAcademy! Now I can automatically deploy an nginx instance from a puppet-master server! Started the #30DaysOfCode challenge on HackerRank. Adding this as one of the sites I go to while I learn, as it physically limits the amount you can learn in one sitting (good for me, as I can't binge the course information).
 
 **Thoughts:** I thought today was quite rewarding, however it was difficult to grasp what HackerRank is aiming for with each of the coding challenges, however the tutorials as well as extra searching online helped me solve the basic challenges.
 
@@ -135,11 +135,16 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:** As Above.
 
-[//]: # (### Day 13: February 19th, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+### Day 13: February 19th, 2020)
+
+**Today's Progress**
+
+**Thoughts:**
+
+**Link to work:**
+
+**Links to research:**
+
 [//]: # (### Day 14: February 20th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
