@@ -137,13 +137,13 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 13: February 19th, 2020)
 
-**Today's Progress**
+**Today's Progress** Today I completed Chapter 6 of PFAB, and completed a Tic-Tac-Toe game with functions.
 
-**Thoughts:**
+**Thoughts:** Quite please with learning functions, but I will need to catch-up with the other courses I started yesterday tomorrow, as this took longer than expected.
 
-**Link to work:**
+**Link to work:** NA
 
-**Links to research:**
+**Links to research:**NA
 
 [//]: # (### Day 14: February 20th 2020)
 [//]: # (**Today's Progress**)
