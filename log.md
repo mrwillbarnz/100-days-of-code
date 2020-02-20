@@ -135,7 +135,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:** As Above.
 
-### Day 13: February 19th, 2020)
+### Day 13: February 19th, 2020
 
 **Today's Progress** Today I completed Chapter 6 of PFAB, and completed a Tic-Tac-Toe game with functions.
 
@@ -143,13 +143,18 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Link to work:** NA
 
-**Links to research:**NA
+**Links to research:** NA
 
-[//]: # (### Day 14: February 20th 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+### Day 14: February 20th 2020
+
+**Today's Progress** Today I completed Chapter 7 of PFAB, and understood how Python 3 now uses Pickle (reading and writing data into files). I also learned about the differences between cPickle for Python 2 and Pickle for Python3, and the best practices (at least the easiest practice) for modern implementations of this program.
+
+**Thoughts:** Today was quite confusing with pickling data, but I'm treating the logic behind them much like calling data frames in R, hopefully I can remember it as I work with more data.
+
+**Link to work:** ![Python PFAB Github Link]()
+
+**Links to research:** ![Link to Python2 Pickle v cPickle](https://pymotw.com/2/pickle/)
+
 [//]: # (### Day 15: February 21th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
