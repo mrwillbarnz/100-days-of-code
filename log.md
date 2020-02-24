@@ -155,31 +155,36 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:** ![Link to Python2 Pickle v cPickle](https://pymotw.com/2/pickle/)
 
-[//]: # (### Day 15: February 21th, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 16: February 22nd 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 17: February 23rd, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 18: February 24th 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 19: February 25th, 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
+### Day 15: February 24th, 2020
+
+**Today's Progress** Today I continued from a weekend break on PFAB, Chapter 9, I also finished SQL Server on Linux Quick-start course on Linux Academy, I also started 'Managing and Troubleshooting Encrypted Volumes on Linux' course on LinuxAcademy.
+
+**Thoughts:** Today I returned the the challenge after a weekend break, which was good for me as I wanted to continue making the same consistent level of progress.
+
+**Link to work:** NA
+
+**Links to research:** NA
+
+[//]: #(### Day 16: February 25th 2020)
+[//]: #(**Today's Progress**)
+[//]: #(**Thoughts:**)
+[//]: #(**Link to work:**)
+[//]: #(**Links to research:**)
+[//]: #(### Day 17: February 26th 2020)
+[//]: #(**Today's Progress**)
+[//]: #(**Thoughts:**)
+[//]: #(**Link to work:**)
+[//]: #(**Links to research:**)
+[//]: #(### Day 18: February 27th 2020)
+[//]: #(**Today's Progress**)
+[//]: #(**Thoughts:**)
+[//]: #(**Link to work:**)
+[//]: #(**Links to research:**)
+[//]: #(### Day 19: February 28th, 2020)
+[//]: #(**Today's Progress**)
+[//]: #(**Thoughts:**)
+[//]: #(**Link to work:**)
+[//]: #(**Links to research:**)
 [//]: # (### Day 20: February 26th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
