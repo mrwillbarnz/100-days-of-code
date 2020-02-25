@@ -165,11 +165,17 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:** NA
 
-[//]: #(### Day 16: February 25th 2020)
-[//]: #(**Today's Progress**)
-[//]: #(**Thoughts:**)
-[//]: #(**Link to work:**)
-[//]: #(**Links to research:**)
+### Day 16: February 25th 2020
+
+**Today's Progress** For today, I investigated GUI applications, and possibly modernising the GUI present in Chapter 10 onwards using GTK+ platform, for cross-platform compatibility
+![GTK+_SDK_Install_Windows](https://www.gtk.org/docs/installations/windows/) Will be testing on my Linux installation once the code is fully written.
+
+**Thoughts:** While I can still utilise the Tkinter library, I wanted to try using GTK+ to allow it to be easily visible on my Manjaro workstation. Finding a decent theme will be the next challenge.
+
+**Link to work:** ![GTK+_SDK_Install_Windows](https://www.gtk.org/docs/installations/windows/)
+
+**Links to research:** ![GTK+_SDK_Install_Windows](https://www.gtk.org/docs/installations/windows/)
+
 [//]: #(### Day 17: February 26th 2020)
 [//]: #(**Today's Progress**)
 [//]: #(**Thoughts:**)
