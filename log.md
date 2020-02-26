@@ -4,7 +4,7 @@
 
 ### Day 0: February 6, 2020
 
-**Today's Progress**: Discovered the challenge, prepared for battle!
+**Today's Progress:** Discovered the challenge, prepared for battle!
 
 - Discovered 100 Days of Code online! ![100-Days-Of-Code](https://www.100daysofcode.com/)
 - Forked the original repo to start this challenge
@@ -15,7 +15,7 @@
 
 ### Day 1: February 7, 2020
 
-**Today's Progress**: Day 1 of FreeCodeCamp
+**Today's Progress:** Day 1 of FreeCodeCamp
 
 - Started FreeCodeCamp HTML Classes!
 - Worked through activities 1-10.
@@ -38,7 +38,7 @@
 
 ### Day 3: February 9, 2020
 
-**Today's Progress**: Day 3 (Python-Modernization)
+**Today's Progress:** Day 3 (Python-Modernization)
 
 - Started modernizing more scripts from Michael Dawson's 'Python Programming For the Absolute Beginner Second Edition'
 - Combed through pages 15-32 modernising the Python 2.3 script to Python 3.8.
@@ -69,16 +69,17 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 6: February 12th, 2020
 
-**Today's Progress** Today I contributed to a couple of 'first-timer-only' repos, to practice Git pull-ing and my first commits on the site! Pymodern is now published on Github (Will post the shortened links on twitter FYI).
+**Today's Progress:** Today I contributed to a couple of 'first-timer-only' repos, to practice Git pull-ing and my first commits on the site! Pymodern is now published on Github (Will post the shortened links on twitter FYI).
 
 **Thoughts:** Alot of discovery today, along with a really useful couple of repos I found for use, will link to them down below, very easy to demonstrate Git-pulling and other useful articles in the second one, might contribute to this one later on in the challenge!
 
 **Link to work:** ![Python_FAB_Reimplementation](https://www.github.com/mrwillbarnz/Python_FAB_Reimplementation)
+
 **Links to research:** ![FirstContributions_Repo](https://github.com/firstcontributions/first-contributions) ![Contribute-To-Open-Source](https://github.com/danthareja/contribute-to-open-source) ![First-Timers-Guide](https://github.com/the-ethan-hunt/first-timers-guide)
 
 ### Day 7: February 13th, 2020
 
-**Today's Progress** Today I contributed to one more 'first-time-only' repo example, specifically the ![FirstContributions_Repo](https://github.com/firstcontributions/first-contributions), following the interactive activity to demonstrate how a pull request works (and a tiny bit of JavaScript!). Started to tidy-up my R-code repo, and consolidate my old scripts from my Undergrad days, ideally turning them into smaller modules, that can be called upon without running specific lines. Will upload the public repo once I've found all my old code, and written some pseudocode for the mini-project.
+**Today's Progress:** Today I contributed to one more 'first-time-only' repo example, specifically the ![FirstContributions_Repo](https://github.com/firstcontributions/first-contributions), following the interactive activity to demonstrate how a pull request works (and a tiny bit of JavaScript!). Started to tidy-up my R-code repo, and consolidate my old scripts from my Undergrad days, ideally turning them into smaller modules, that can be called upon without running specific lines. Will upload the public repo once I've found all my old code, and written some pseudocode for the mini-project.
 
 **Thoughts:** I really enjoyed understanding the Git Pull Request process, will have to spend the next couple of days reviewing what I've done so far. I'm intending to building more GUI apps by the time I've finished the challenge, but slow and steady wins the race!
 
@@ -88,7 +89,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 8: February 14th 2020
 
-**Today's Progress** Today I continued my Git pull request practice by using the Git-It application (link in yesterday's notes) followed the exercises as stated on the electron-app. Attempted Jenkins Continuous Integration (CI) lab, broke the test servers, setup a Linode account to potentially test more server-side applications and practice server management. Added the final Chapter 4 scripts in 'PFTAB' book.
+**Today's Progress:** Today I continued my Git pull request practice by using the Git-It application (link in yesterday's notes) followed the exercises as stated on the electron-app. Attempted Jenkins Continuous Integration (CI) lab, broke the test servers, setup a Linode account to potentially test more server-side applications and practice server management. Added the final Chapter 4 scripts in 'PFTAB' book.
 
 **Thoughts:** Good progress made today, but a slower day due to working harder during the week.
 
@@ -98,7 +99,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 9: February 15th, 2020
 
-**Today's Progress** Today I continued my Python Modernisation progress, starting with Chapter 5 scripts. Re-attempted the CI lab on Linux Academy.
+**Today's Progress:** Today I continued my Python Modernisation progress, starting with Chapter 5 scripts. Re-attempted the CI lab on Linux Academy.
 
 **Thoughts:**Reading further documentation will enable me to diagnose and debug the older conditional statements, and the correct Syntax for Python3.
 
@@ -108,7 +109,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 10: February 16th 2020
 
-**Today's Progress** Continued with PyModern Project, took a break from previous labs, including the CI one.
+**Today's Progress:** Continued with PyModern Project, took a break from previous labs, including the CI one.
 
 **Thoughts:**I felt that I progressed really well over the past week, hoping to continue that motivation onwards.s
 
@@ -117,7 +118,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 **Links to research:**Note to report.
 ### Day 11: February 17th, 2020
 
-**Today's Progress** Continued with PyModern Project, started Puppet Quick Start, on LA.
+**Today's Progress:** Continued with PyModern Project, started Puppet Quick Start, on LA.
 
 **Thoughts:**Puppet Quick Start was difficult to configure on my own server, but easier on the labs, due to the packages being pre-installed. Configuration of CA certs was a particular hang-up. Today I learned more about Lists and Dictionaries in Python, by creating the hangman-game.py script.
 
@@ -127,7 +128,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 12: February 18th 2020
 
-**Today's Progress** Today I completed the Puppet Quick-Start course from LinuxAcademy! Now I can automatically deploy an nginx instance from a puppet-master server! Started the #30DaysOfCode challenge on HackerRank. Adding this as one of the sites I go to while I learn, as it physically limits the amount you can learn in one sitting (good for me, as I can't binge the course information).
+**Today's Progress:** Today I completed the Puppet Quick-Start course from LinuxAcademy! Now I can automatically deploy an nginx instance from a puppet-master server! Started the #30DaysOfCode challenge on HackerRank. Adding this as one of the sites I go to while I learn, as it physically limits the amount you can learn in one sitting (good for me, as I can't binge the course information).
 
 **Thoughts:** I thought today was quite rewarding, however it was difficult to grasp what HackerRank is aiming for with each of the coding challenges, however the tutorials as well as extra searching online helped me solve the basic challenges.
 
@@ -137,7 +138,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 13: February 19th, 2020
 
-**Today's Progress** Today I completed Chapter 6 of PFAB, and completed a Tic-Tac-Toe game with functions.
+**Today's Progress:** Today I completed Chapter 6 of PFAB, and completed a Tic-Tac-Toe game with functions.
 
 **Thoughts:** Quite please with learning functions, but I will need to catch-up with the other courses I started yesterday tomorrow, as this took longer than expected.
 
@@ -147,7 +148,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 14: February 20th 2020
 
-**Today's Progress** Today I completed Chapter 7 of PFAB, and understood how Python 3 now uses Pickle (reading and writing data into files). I also learned about the differences between cPickle for Python 2 and Pickle for Python3, and the best practices (at least the easiest practice) for modern implementations of this program.
+**Today's Progress:** Today I completed Chapter 7 of PFAB, and understood how Python 3 now uses Pickle (reading and writing data into files). I also learned about the differences between cPickle for Python 2 and Pickle for Python3, and the best practices (at least the easiest practice) for modern implementations of this program.
 
 **Thoughts:** Today was quite confusing with pickling data, but I'm treating the logic behind them much like calling data frames in R, hopefully I can remember it as I work with more data.
 
@@ -157,7 +158,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 15: February 24th, 2020
 
-**Today's Progress** Today I continued from a weekend break on PFAB, Chapter 9, I also finished SQL Server on Linux Quick-start course on Linux Academy, I also started 'Managing and Troubleshooting Encrypted Volumes on Linux' course on LinuxAcademy.
+**Today's Progress:** Today I continued from a weekend break on PFAB, Chapter 9, I also finished SQL Server on Linux Quick-start course on Linux Academy, I also started 'Managing and Troubleshooting Encrypted Volumes on Linux' course on LinuxAcademy.
 
 **Thoughts:** Today I returned the the challenge after a weekend break, which was good for me as I wanted to continue making the same consistent level of progress.
 
@@ -167,7 +168,7 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 16: February 25th 2020
 
-**Today's Progress** For today, I investigated GUI applications, and possibly modernising the GUI present in Chapter 10 onwards using GTK+ platform, for cross-platform compatibility
+**Today's Progress:** For today, I investigated GUI applications, and possibly modernising the GUI present in Chapter 10 onwards using GTK+ platform, for cross-platform compatibility
 ![GTK+_SDK_Install_Windows](https://www.gtk.org/docs/installations/windows/) Will be testing on my Linux installation once the code is fully written.
 
 **Thoughts:** While I can still utilise the Tkinter library, I wanted to try using GTK+ to allow it to be easily visible on my Manjaro workstation. Finding a decent theme will be the next challenge.
@@ -176,28 +177,33 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:** ![GTK+_SDK_Install_Windows](https://www.gtk.org/docs/installations/windows/)
 
-[//]: #(### Day 17: February 26th 2020)
-[//]: #(**Today's Progress**)
-[//]: #(**Thoughts:**)
-[//]: #(**Link to work:**)
-[//]: #(**Links to research:**)
+### Day 17: February 26th 2020
+
+**Today's Progress:** Today I focused more on GUI Development, today using the Tkinter toolkit, which is built-in to Python 2 (Will modernise to GTK+ when I find a decent cross-platform theme).
+
+**Thoughts:** Today the tkinter module accepted similar syntax to the original Python 2 Tkinter module, moving to GTK shouldn't be too difficult.
+
+**Link to work:** NA
+
+**Links to research:** NA
+
 [//]: #(### Day 18: February 27th 2020)
-[//]: #(**Today's Progress**)
+[//]: #(**Today's Progress:**)
 [//]: #(**Thoughts:**)
 [//]: #(**Link to work:**)
 [//]: #(**Links to research:**)
 [//]: #(### Day 19: February 28th, 2020)
-[//]: #(**Today's Progress**)
+[//]: #(**Today's Progress:**)
 [//]: #(**Thoughts:**)
 [//]: #(**Link to work:**)
 [//]: #(**Links to research:**)
 [//]: # (### Day 20: February 26th 2020)
-[//]: # (**Today's Progress**)
+[//]: # (**Today's Progress:**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
 [//]: # (### Day 21: February 27th, 2020)
-[//]: # (**Today's Progress**)
+[//]: # (**Today's Progress:**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
@@ -586,13 +592,14 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 99: February 13th, 2020)
+[//]: # (### Day 99: May 15th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 100: February 14th 2020)
+[//]: # (### Day 100: May 16th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
+[//]: #(### Day 101: May 17th 2020)
