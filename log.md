@@ -122,9 +122,9 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Thoughts:**Puppet Quick Start was difficult to configure on my own server, but easier on the labs, due to the packages being pre-installed. Configuration of CA certs was a particular hang-up. Today I learned more about Lists and Dictionaries in Python, by creating the hangman-game.py script.
 
-**Link to work:**None to report.
+**Link to work:** None to report.
 
-**Links to research:**None to report.
+**Links to research:** None to report.
 
 ### Day 12: February 18th 2020
 
@@ -181,17 +181,22 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Today's Progress:** Today I focused more on GUI Development, today using the Tkinter toolkit, which is built-in to Python 2 (Will modernise to GTK+ when I find a decent cross-platform theme).
 
-**Thoughts:** Today the tkinter module accepted similar syntax to the original Python 2 Tkinter module, moving to GTK shouldn't be too difficult.
+**Thoughts:** Today the Tkinter module accepted similar syntax to the original Python 2 Tkinter module, moving to GTK shouldn't be too difficult.
 
 **Link to work:** NA
 
 **Links to research:** NA
 
-[//]: #(### Day 18: February 27th 2020)
-[//]: #(**Today's Progress:**)
-[//]: #(**Thoughts:**)
-[//]: #(**Link to work:**)
-[//]: #(**Links to research:**)
+### Day 18: February 27th 2020
+
+**Today's Progress:** Today I continued to create GUI applications, using the Tkinter module, today I wrangled with checkboxes and radio buttons. I finished up with the Mad Lib program which tells random stories using user input.
+
+**Thoughts:** GUI apps are cool, will continue with this later on into the script. Utilising Pygame (or Pygame Zero, not sure which one yet!).
+
+**Link to work:** [Python_FAB_Reimplementation](https://www.github.com/mrwillbarnz/Python_FAB_Reimplementation)
+
+**Links to research:** [Pygame_Zero_ReadTheDocs](https://pygame-zero.readthedocs.io/en/stable/)
+
 [//]: #(### Day 19: February 28th, 2020)
 [//]: #(**Today's Progress:**)
 [//]: #(**Thoughts:**)
