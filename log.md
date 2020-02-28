@@ -197,22 +197,27 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 **Links to research:** [Pygame_Zero_ReadTheDocs](https://pygame-zero.readthedocs.io/en/stable/)
 
-[//]: #(### Day 19: February 28th, 2020)
-[//]: #(**Today's Progress:**)
-[//]: #(**Thoughts:**)
-[//]: #(**Link to work:**)
-[//]: #(**Links to research:**)
-[//]: # (### Day 20: February 26th 2020)
+### Day 19: February 28th, 2020
+
+**Today's Progress:** Today I learned more about GUI apps, and started using the Pygame library (v 2.3 for Python2 for now!).
+
+**Thoughts:**
+
+**Link to work:** NA
+
+**Links to research:** NA
+
+[//]: # (### Day 20: February 29th 2020)
 [//]: # (**Today's Progress:**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 21: February 27th, 2020)
+[//]: # (### Day 21: February 30th, 2020)
 [//]: # (**Today's Progress:**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 22: February 28th 2020)
+[//]: # (### Day 22: February 31st 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
