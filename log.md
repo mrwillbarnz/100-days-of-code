@@ -199,150 +199,164 @@ Today I progressed through Chapter 2 of 'Python for the Absolute Beginner' and a
 
 ### Day 19: February 28th, 2020
 
-**Today's Progress:** Today I learned more about GUI apps, and started using the Pygame library (v 2.3 for Python2 for now!).
+**Today's Progress:** Today I learned more about GUI apps, and started using the Pygame library (version 2.3 for Python2 for now!).
+
+**Thoughts:** Really good progress today, I'm hoping to finish the book by the middle of March!
+
+**Link to work:** NA
+
+**Links to research:** NA
+
+### Day 20: March 1st 2020
+
+**Today's Progress:** Today I complete the PFAB book, and did some simple debugging of my programs, as the LiveWires module was 'modified specifically for the PFAB book', using the LiveWires Appendix found in the back of the book, I'm trying to find the module and see if it can be modified for Python3 easily or not.
+
+**Thoughts:** I'm really happy I kept continuing with this book, and tried to translate the old Python 2.3 code to Python 3.8, although more difficult for some of the games, this will be something I'll be revisiting during this round of '#100DaysofCode'.
+
+**Link to work:** NA
+
+**Links to research:** NA
+
+### Day 21: February 2nd, 2020
+
+**Today's Progress:** Today I started the Ruby 101 Course on Linux Academy, and 'Implementing a full CI/CD Pipeline' course, as this is related to the Learn Jenkins by Doing course, which was part of the lab set I was struggling with previously.
+
+**Thoughts:** Today I learned more about the Ruby programming language, and its contrasts from Python.
+
+**Link to work:** NA
+
+**Links to research:** NA
+
+### Day 22: March 3rd 2020
+
+**Today's Progress** 
 
 **Thoughts:**
 
 **Link to work:** NA
 
 **Links to research:** NA
-
-[//]: # (### Day 20: February 29th 2020)
-[//]: # (**Today's Progress:**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 21: February 30th, 2020)
-[//]: # (**Today's Progress:**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 22: February 31st 2020)
+[//]: # (### Day 23: March 4th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 23: February 29th, 2020)
+[//]: # (### Day 24: March 5th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 24: February 30th 2020)
+[//]: # (### Day 25: March 6th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 25: February 31th, 2020)
+[//]: # (### Day 26: March 7th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 26: March 1st 2020)
+[//]: # (### Day 27: March 8th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 27: March 2nd, 2020)
+[//]: # (### Day 28: March 9th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 28: March 3rd 2020)
+[//]: # (### Day 29: March 10th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 29: March 4th, 2020)
+[//]: # (### Day 30: March 11th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 30: March 5th 2020)
+[//]: # (### Day 31: March 12th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 31: March 6th, 2020)
+[//]: # (### Day 32: March 13th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 32: March 7th 2020)
+[//]: # (### Day 33: March 14th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 33: March 8th, 2020)
+[//]: # (### Day 34: March 15th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 34: March 9th 2020)
+[//]: # (### Day 35: March 16th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 35: March 10th, 2020)
+[//]: # (### Day 36: March 17th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 36: March 11th 2020)
+[//]: # (### Day 37: March 18th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 37: March 12th, 2020)
+[//]: # (### Day 38: March 19th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 38: March 13th 2020)
+[//]: # (### Day 39: March 20th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 39: March 14th, 2020)
+[//]: # (### Day 40: March 21th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 40: March 15th 2020)
+[//]: # (### Day 41: March 22nd, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 41: March 15th, 2020)
+[//]: # (### Day 42: March 23rd 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 42: March 16th 2020)
+[//]: # (### Day 43: March 24th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 43: March 17th, 2020)
+[//]: # (### Day 44: March 25th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 44: March 18th 2020)
+[//]: # (### Day 45: March 26th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 45: March 19th, 2020)
+[//]: # (### Day 46: March 27th 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
 [//]: # (**Links to research:**)
-[//]: # (### Day 46: March 20th 2020)
-[//]: # (**Today's Progress**)
-[//]: # (**Thoughts:**)
-[//]: # (**Link to work:**)
-[//]: # (**Links to research:**)
-[//]: # (### Day 47: March 21st, 2020)
+[//]: # (### Day 47: March 28th, 2020)
 [//]: # (**Today's Progress**)
 [//]: # (**Thoughts:**)
 [//]: # (**Link to work:**)
